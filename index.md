@@ -2,10 +2,10 @@ As an alternative to Android Auto or Apple Carplay, BMW built their own converge
 
 ## Projects
 
-- [BMW Connected Analysis](https://hufman.github.io/BMWConnectedAnalysis/) documents the protocol to interact with the car.
+- [BMW Connected Analysis](https://bimmergestalt.github.io/BMWConnectedAnalysis/) documents the protocol to interact with the car.
 
-- [AndroidAutoIdrive](https://github.com/hufman/AndroidAutoIdrive) implements some Android Auto features as unofficial IDrive apps. This includes adding the phone's music apps as media inputs, showing phone notifications in the car, and integrating the car's navigation to handle phone navigation requests.
+- [AAIdrive](https://github.com/bimmergestalt/AAIdrive) implements some Android Auto features as unofficial IDrive apps. This includes adding the phone's music apps as media inputs, showing phone notifications in the car, and integrating the car's navigation to handle phone navigation requests.
 
-- [IDriveConnectKit](https://github.com/hufman/IDriveConnectKit) is a library to build the RPC stubs to interact with the car, along with convenient helper modules.
+- [IDriveConnectKit](https://github.com/bimmergestalt/IDriveConnectKit) is a library to build the RPC stubs to interact with the car, along with convenient helper modules.
 
-- [IDriveConnectKitAndroid](https://github.com/hufman/IDriveConnectKitAndroid) is an Android-specific helper library to integrate with the official car app.
+- [IDriveConnectKitAndroid](https://github.com/bimmergestalt/IDriveConnectKitAndroid) is an Android-specific helper library to integrate with the official car app.
